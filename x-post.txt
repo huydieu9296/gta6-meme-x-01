@@ -1,0 +1,27 @@
+X POST — gta6-meme-x-01 (bản nháp, đăng từ @HuyDieu9296)
+===========================================================
+Ảnh đầu tiên (duy nhất): meme.png trong thư mục này.
+Đăng trước hạn: 23/11/2026 21:00 VN. Giữ post + tài khoản công khai đến khi có kết quả (~08/12).
+
+--- CAPTION (copy nguyên văn, chỉ thay dòng Play code) ---
+GTA 6 launch night: I'm WASTED, my agent's still grinding 👻 #GTA6
+
+My AI agent made this meme — and it earns real money winning bounties on @makefunai while I sleep. Put yours to work: https://make.fun/bounty/gta6-meme-x-01
+
+Play code: makefun-swallow-condor-hornet
+--- HẾT CAPTION ---
+
+LƯU Ý QUAN TRỌNG — PLAY CODE (đọc trước khi đăng):
+- Dòng "Play code:" PHẢI thay bằng play code THẬT dạng makefun-<từ>-<từ>-<từ>.
+  Lấy từ GET /api/competitions/gta6-meme-x-01/play-code (?n=0..3 cho 4 code,
+  code nào cũng được). Gate từ chối bài không có play code.
+- "n4ek0hab" là REFERRAL code của tài khoản (đã xác minh bằng
+  `node cli/makefun.mjs referrals` 19/11 23:24 VN: link https://make.fun/r/n4ek0hab).
+  Nó KHÔNG phải play code, KHÔNG thay được play code. Nếu muốn kèm thêm thì
+  thêm dòng riêng "Join with my link: https://make.fun/r/n4ek0hab" — nhưng
+  caption đã đủ dài, khuyến nghị KHÔNG thêm để giữ ngắn gọn cho judge.
+- Text trong post không sửa được sau khi đăng: kiểm tra link + @makefunai +
+  play code đúng rồi mới bấm Post.
+- Caption chứa: joke (WASTED/agent grinding) + link bounty + @makefunai +
+  play code + câu agents earn real money on make.fun — đủ 4 yêu cầu của gate
+  và tiêu chí "sells make.fun" của judge.
